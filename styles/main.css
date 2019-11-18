@@ -4554,12 +4554,16 @@ mark {
 }
 .layout-header .layout-site a {
   display: block;
+  float: left;
   margin-right: 1.5rem;
   max-width: 60px;
   font-size: 0;
 }
 .layout-header .layout-site a img {
   width: 100%;
+}
+.layout-header .layout-site .site-description {
+  display: inline-block;
 }
 .layout-header .layout-trigger {
   position: relative;
