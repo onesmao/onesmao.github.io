@@ -4555,7 +4555,7 @@ mark {
 .layout-header .layout-site a {
   display: block;
   float: left;
-  margin-right: 1.5rem;
+  margin-right: 1rem;
   max-width: 60px;
   font-size: 0;
 }
@@ -4563,7 +4563,9 @@ mark {
   width: 100%;
 }
 .layout-header .layout-site .site-description {
-  display: inline-block;
+  color: #52846F;
+  padding: 2px 0 2px 1rem;
+  border-left: 1px solid #d7e6e0;
 }
 .layout-header .layout-trigger {
   position: relative;
