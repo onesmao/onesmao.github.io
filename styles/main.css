@@ -4555,7 +4555,7 @@ mark {
 .layout-header .layout-site a {
   display: block;
   margin-right: 1.5rem;
-  max-width: 72px;
+  max-width: 60px;
   font-size: 0;
 }
 .layout-header .layout-site a img {
