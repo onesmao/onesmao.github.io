@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onesmao.com</id>
     <title>一只小猫</title>
-    <updated>2019-12-20T01:59:02.222Z</updated>
+    <updated>2019-12-20T02:42:56.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onesmao.com"/>
     <link rel="self" href="https://onesmao.com/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://onesmao.com/images/avatar.png</logo>
     <icon>https://onesmao.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 一只小猫</rights>
+    <entry>
+        <title type="html"><![CDATA[来自父母的电话]]></title>
+        <id>https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua</id>
+        <link href="https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua">
+        </link>
+        <updated>2019-12-20T02:11:00.000Z</updated>
+        <content type="html"><![CDATA[<p>可能是一个人生活习惯了，也可能是和父母之间相处的氛围让我有些无所适从，所以我总很怕接到他们的电话，也怕收到他们的微信消息。<br>
+随着自己年龄的增长，父母开始慢慢透露些身体怎么不好的讯息给我，或者父母的父母身体不好的情况，我知道这些事情多多少少总要面对，可是摆在面前时，还是百感交集。近几年我哥哥和姐姐的爷爷去世了，知道这些的时候我总会陷入深深的担忧，也觉得很难过。所以很多时候我尽量的多回家，多去陪陪自己的家人，即使这样，还是觉得不安。<br>
+前天晚上接到我爸的电话，声音有点低沉，一开始喊我名字的时候，说实话我心里更是害怕，因为上周回家的时候，我爸爸和奶奶告诉我，爷爷膝盖不舒服，住院住了十天，这也是我回家了他们才告诉我，所以我怕的是突然打来电话会说的是比住院什么的更严重的事情。还好只是虚惊一场（这个时候我觉得虚惊一场这个词实在是太好了），他话锋一转，跟我说他换手机了，问我家里wifi密码多少。。。What?！家里wifi密码明明是他自己设的，现在又来问我，我就告诉他了。第二天晚上又来电话，我心情平静多了，告诉我他连上wifi了，然后叮嘱了一番吃饱穿暖早点睡觉，几十秒的对话就结束了。<br>
+跟我妈则是聊微信比较多，但是我也“不喜欢”收到她的微信消息，因为每次看到她发消息来我总会有莫名的压力。更多的是关心我生活过得怎么样，有没有买新的衣服或者自己想要的东西什么的，家里卫生打扫了没有、衣服洗了没有、猫睡觉的垫子洗了没有，各种各种。。。我妈是一个太细心的人，细心到每次她来我这里，只要哪里有一点点改变她都能看得出来，有点阔怕吧，哈哈。<br>
+害怕接到他们的电话或是微信消息，可能是我觉得只要不联系，大家肯定都相安无事，我这想法也挺神奇的。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从什么时候开始熬夜]]></title>
         <id>https://onesmao.com/post/cong-shi-me-shi-hou-kai-shi-ao-ye</id>
