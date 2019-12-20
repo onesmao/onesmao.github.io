@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onesmao.com</id>
     <title>一只小猫</title>
-    <updated>2019-12-19T09:04:06.146Z</updated>
+    <updated>2019-12-20T01:22:08.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onesmao.com"/>
     <link rel="self" href="https://onesmao.com/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://onesmao.com/images/avatar.png</logo>
     <icon>https://onesmao.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 一只小猫</rights>
+    <entry>
+        <title type="html"><![CDATA[从什么时候开始熬夜]]></title>
+        <id>https://onesmao.com/post/cong-shi-me-shi-hou-kai-shi-ao-ye</id>
+        <link href="https://onesmao.com/post/cong-shi-me-shi-hou-kai-shi-ao-ye">
+        </link>
+        <updated>2019-12-20T01:04:57.000Z</updated>
+        <content type="html"><![CDATA[<p>从2018年开始，渐渐的喜欢熬夜，凌晨一点两点三点四点，第二天一样起来上班，因为那个时候早上上班时间也比较随意，规定8：30上班，领导改成9点，实际都是十点十一点才去，上班的时候困成狗，心想今天回去一定要早点睡，但是一下班，又会执着的熬夜，就好像每天有说不完的话，一定要在当天说完，第二天又有好多好多话要说，而对方也是会迁就，一起熬夜，即使有时候想早睡，也被我拖到很晚。后来可能没有那么多话了，还是习惯性的要晚睡，因为这个不好的习惯我被说了很多次，但还是不愿意改。直到现在，快两年了，好难改过来。<br>
+只是记录吧，其实我也分不清是全情投入的喜欢还是在消耗自己无处安放的情绪了。<br>
+希望以后不要再这么多话了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洗澡的随想]]></title>
         <id>https://onesmao.com/post/xi-zao-de-sui-xiang</id>
