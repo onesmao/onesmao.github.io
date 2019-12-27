@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onesmao.com</id>
     <title>一只小猫</title>
-    <updated>2019-12-26T07:19:43.891Z</updated>
+    <updated>2019-12-27T01:51:56.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onesmao.com"/>
     <link rel="self" href="https://onesmao.com/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://onesmao.com/images/avatar.png</logo>
     <icon>https://onesmao.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 一只小猫</rights>
+    <entry>
+        <title type="html"><![CDATA[后遗症]]></title>
+        <id>https://onesmao.com/post/hou-yi-zheng</id>
+        <link href="https://onesmao.com/post/hou-yi-zheng">
+        </link>
+        <updated>2019-12-27T01:17:43.000Z</updated>
+        <content type="html"><![CDATA[<p>大概就是今年留下的后遗症吧<br>
+很少很少会打车，除非真的快要迟到了<br>
+周末坐地铁回家会觉得地铁好贵，甚至会想要不要换公交，但是地铁真的方便的多<br>
+平时能坐公交就不会坐地铁，因为公交基本都要便宜一些<br>
+点外卖如果20块钱以上就会觉得贵<br>
+就连过早都会考虑是买5块钱的豆皮还是3块钱的煎包，就差2块钱而已<br>
+不管是在实体店还是网上买衣服或者生活用品，都会考虑很久，觉得确实需要并且价格合适才会买，有的东西过了那个想买的阶段可能就不买了，之后也觉得不怎么需要<br>
+想去看电影都会觉得电影票又是一笔支出<br>
+很长时间都没有打开淘宝和京东</p>
+<p>这些是往年都没有过的生活方式<br>
+现在有时候还是会习惯性的像这样生活<br>
+然后又突然发现不必再这么过了</p>
+<p>其实现在想想，也没有觉得这样节约的生活会让自己不开心吧，因为有些时候真的能减少一些不必要的开销，以前花钱很多时候确实不会怎么去考虑太多。希望以后在吃饭、出行和看电影这些方面就不用这么节约啦，在买东西的时候还是要买自己确实需要的东西才好。<br>
+还有就是要存一点钱，不能每个月月光了，这样的话再换工作也不用生活的这么艰难了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[倒数]]></title>
         <id>https://onesmao.com/post/dao-shu</id>
@@ -269,38 +291,6 @@
 </blockquote>
 <p>未来的时间里，希望大家都能过得很好！<br>
 <img src="https://onesmao.com/post-images/1574169271509.jpeg" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://onesmao.com/post/hello-gridea</id>
-        <link href="https://onesmao.com/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
