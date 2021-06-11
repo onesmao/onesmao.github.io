@@ -2,18 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onesmao.com</id>
     <title>一只小猫</title>
-    <updated>2020-07-18T06:33:20.730Z</updated>
+    <updated>2021-06-11T03:46:36.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onesmao.com"/>
     <link rel="self" href="https://onesmao.com/atom.xml"/>
     <subtitle>我是猫。还没有名字。</subtitle>
     <logo>https://onesmao.com/images/avatar.png</logo>
     <icon>https://onesmao.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 一只小猫</rights>
+    <rights>All rights reserved 2021, 一只小猫</rights>
+    <entry>
+        <title type="html"><![CDATA[随手记录一些吧]]></title>
+        <id>https://onesmao.com/post/sui-shou-ji-lu-yi-xie-ba/</id>
+        <link href="https://onesmao.com/post/sui-shou-ji-lu-yi-xie-ba/">
+        </link>
+        <updated>2020-09-08T01:14:27.000Z</updated>
+        <content type="html"><![CDATA[<p>在成年人的世界里，好像与人多交流几句，都是个奢侈的愿望。没有实际意义的对话，不想开始；有意义的话题，需要拿些什么交换才能有交流的机会。<br>
+当平等的友谊，逐渐向被嫉妒的方向发展的时候，我开始慢慢丧失与人沟通的能力，我又困惑了。<br>
+不知道是我太清醒，还是这世界本来就和我想的不太一样，无人诉说，无法诉说。<br>
+只好埋头向前走了，希望有天能被照亮，或者带着满身光芒拥抱他人。<br>
+热烈与厌倦，都来的如此的快，人们好善变，我也好善变。</p>
+<p>太喜欢这种安静下来做事情的感觉了。</p>
+<p>好有意思啊，想要有多忙，就能有多忙。</p>
+<p>自由又充实的假期<br>
+1 去看外公，陪他去医院，一起吃了两顿饭<br>
+2 超市购物，买了菜和水果<br>
+3 做饭，整理秋冬的衣服，看比赛<br>
+4 做饭，整理秋冬的衣服，看比赛<br>
+5 逛街，买了一件外套、裤子、包，看比赛<br>
+6 做饭，看比赛，看综艺<br>
+7 和以前的同事吃饭逛街，买了一件衣服，东湖绿道骑车，看综艺<br>
+8 配眼镜，吃鸡柳，看了一本书，做饭，看比赛，看综艺</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开始的倾心交谈，沦为平淡]]></title>
-        <id>https://onesmao.com/post/kai-shi-de-qing-xin-jiao-tan-lun-wei-ping-dan</id>
-        <link href="https://onesmao.com/post/kai-shi-de-qing-xin-jiao-tan-lun-wei-ping-dan">
+        <id>https://onesmao.com/post/kai-shi-de-qing-xin-jiao-tan-lun-wei-ping-dan/</id>
+        <link href="https://onesmao.com/post/kai-shi-de-qing-xin-jiao-tan-lun-wei-ping-dan/">
         </link>
         <updated>2020-07-18T01:12:49.000Z</updated>
         <content type="html"><![CDATA[<p>最近这几天，总是很容易陷入失落的情绪中，无法自拔……<br>
@@ -29,8 +53,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[假期的快乐]]></title>
-        <id>https://onesmao.com/post/jia-qi-de-kuai-le</id>
-        <link href="https://onesmao.com/post/jia-qi-de-kuai-le">
+        <id>https://onesmao.com/post/jia-qi-de-kuai-le/</id>
+        <link href="https://onesmao.com/post/jia-qi-de-kuai-le/">
         </link>
         <updated>2020-06-26T08:47:03.000Z</updated>
         <content type="html"><![CDATA[<p>在比较忙碌的工作当中，迎来了端午节假期，总算可以放松下心情啦~<br>
@@ -56,8 +80,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[能作茧自缚，也能破茧成蝶]]></title>
-        <id>https://onesmao.com/post/shi-zhong-jue-de</id>
-        <link href="https://onesmao.com/post/shi-zhong-jue-de">
+        <id>https://onesmao.com/post/shi-zhong-jue-de/</id>
+        <link href="https://onesmao.com/post/shi-zhong-jue-de/">
         </link>
         <updated>2020-05-07T08:15:33.000Z</updated>
         <content type="html"><![CDATA[<p>始终觉得结婚会在一定程度上减缓一个人在工作能力或者生活技能上的成长，或者这个人的生活轨迹突然走向另一条道路，特别是对于女生而言，结婚的影响可能是非常大的（好的或坏的影响都有）。<br>
@@ -69,8 +93,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[自带治愈buff的家庭]]></title>
-        <id>https://onesmao.com/post/zi-dai-zhi-yu-buff-de-jia-ting</id>
-        <link href="https://onesmao.com/post/zi-dai-zhi-yu-buff-de-jia-ting">
+        <id>https://onesmao.com/post/zi-dai-zhi-yu-buff-de-jia-ting/</id>
+        <link href="https://onesmao.com/post/zi-dai-zhi-yu-buff-de-jia-ting/">
         </link>
         <updated>2020-05-04T16:20:49.000Z</updated>
         <content type="html"><![CDATA[<p>五一假期原本打算不出门，休息几天，后来因为我妈去哥哥家玩，我嫂子说我放假一个人也不好玩，让我去他们家玩，于是我就改变了假期的计划，出发去我哥哥家啦。（刚毕业的时候在哥哥家住过一段时间，他们家的人都很好，他的小孩“乐乐”也很可爱，所以我也喜欢去他们家玩）<br>
@@ -86,8 +110,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[生活碎片]]></title>
-        <id>https://onesmao.com/post/sheng-huo-sui-pian</id>
-        <link href="https://onesmao.com/post/sheng-huo-sui-pian">
+        <id>https://onesmao.com/post/sheng-huo-sui-pian/</id>
+        <link href="https://onesmao.com/post/sheng-huo-sui-pian/">
         </link>
         <updated>2020-04-24T01:53:18.000Z</updated>
         <content type="html"><![CDATA[<p>片段1<br>
@@ -111,8 +135,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一部没有感情工作的机器]]></title>
-        <id>https://onesmao.com/post/ru-he-cheng-wei-yi-bu-gong-zuo-de-ji-qi</id>
-        <link href="https://onesmao.com/post/ru-he-cheng-wei-yi-bu-gong-zuo-de-ji-qi">
+        <id>https://onesmao.com/post/ru-he-cheng-wei-yi-bu-gong-zuo-de-ji-qi/</id>
+        <link href="https://onesmao.com/post/ru-he-cheng-wei-yi-bu-gong-zuo-de-ji-qi/">
         </link>
         <updated>2020-04-02T16:12:15.000Z</updated>
         <content type="html"><![CDATA[<p>真的好希望自己成为一部没有感情的工作机器呀！<br>
@@ -127,8 +151,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我不想拥有一双清醒的眼睛]]></title>
-        <id>https://onesmao.com/post/wo-bu-xiang-yong-you-yi-shuang-qing-xing-de-yan-jing</id>
-        <link href="https://onesmao.com/post/wo-bu-xiang-yong-you-yi-shuang-qing-xing-de-yan-jing">
+        <id>https://onesmao.com/post/wo-bu-xiang-yong-you-yi-shuang-qing-xing-de-yan-jing/</id>
+        <link href="https://onesmao.com/post/wo-bu-xiang-yong-you-yi-shuang-qing-xing-de-yan-jing/">
         </link>
         <updated>2020-03-18T15:06:27.000Z</updated>
         <content type="html"><![CDATA[<p>标题的这句话是我在刚刚洗澡的时候想到的，大概洗澡让人太放松又心情好了，洗着洗着一些有趣的想法就在缓缓上升的水蒸气中蹦蹦跳跳地冒出来了。<br>
@@ -141,8 +165,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[写在26岁来临之际]]></title>
-        <id>https://onesmao.com/post/xie-zai-26-sui-lai-lin-zhi-ji</id>
-        <link href="https://onesmao.com/post/xie-zai-26-sui-lai-lin-zhi-ji">
+        <id>https://onesmao.com/post/xie-zai-26-sui-lai-lin-zhi-ji/</id>
+        <link href="https://onesmao.com/post/xie-zai-26-sui-lai-lin-zhi-ji/">
         </link>
         <updated>2020-03-06T17:06:03.000Z</updated>
         <content type="html"><![CDATA[<p>大半夜把电脑抱到床上，打标题的时候还差点打成了“36岁”，把我自己都吓了一跳。。<br>
@@ -160,8 +184,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[后遗症]]></title>
-        <id>https://onesmao.com/post/hou-yi-zheng</id>
-        <link href="https://onesmao.com/post/hou-yi-zheng">
+        <id>https://onesmao.com/post/hou-yi-zheng/</id>
+        <link href="https://onesmao.com/post/hou-yi-zheng/">
         </link>
         <updated>2019-12-27T01:17:43.000Z</updated>
         <content type="html"><![CDATA[<p>大概就是今年留下的后遗症吧<br>
@@ -182,8 +206,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[倒数]]></title>
-        <id>https://onesmao.com/post/dao-shu</id>
-        <link href="https://onesmao.com/post/dao-shu">
+        <id>https://onesmao.com/post/dao-shu/</id>
+        <link href="https://onesmao.com/post/dao-shu/">
         </link>
         <updated>2019-12-21T02:12:55.000Z</updated>
         <content type="html"><![CDATA[<p>从25岁开始，感觉生活开始倒数了，30岁之前要完成的事情，会随着时间的流逝越来越躲不掉了，所以25岁的时候我总在想26岁的时候我该做些什么，很多时候我都以为我已经26了，可能到26的时候也会如此吧，越来越觉得时间的宝贵，挥霍不起了。<br>
@@ -193,8 +217,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[来自父母的电话]]></title>
-        <id>https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua</id>
-        <link href="https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua">
+        <id>https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua/</id>
+        <link href="https://onesmao.com/post/lai-zi-fu-mu-de-dian-hua/">
         </link>
         <updated>2019-12-20T02:11:00.000Z</updated>
         <content type="html"><![CDATA[<p>可能是一个人生活习惯了，也可能是和父母之间相处的氛围让我有些无所适从，所以我总很怕接到他们的电话，也怕收到他们的微信消息。<br>
@@ -202,18 +226,6 @@
 前天晚上接到我爸的电话，声音有点低沉，一开始喊我名字的时候，说实话我心里更是害怕，因为上周回家的时候，我爸爸和奶奶告诉我，爷爷膝盖不舒服，住院住了十天，这也是我回家了他们才告诉我，所以我怕的是突然打来电话会说的是比住院什么的更严重的事情。还好只是虚惊一场（这个时候我觉得虚惊一场这个词实在是太好了），他话锋一转，跟我说他换手机了，问我家里wifi密码多少。。。What?！家里wifi密码明明是他自己设的，现在又来问我，我就告诉他了。第二天晚上又来电话，我心情平静多了，告诉我他连上wifi了，然后叮嘱了一番吃饱穿暖早点睡觉，几十秒的对话就结束了。<br>
 跟我妈则是聊微信比较多，但是我也“不喜欢”收到她的微信消息，因为每次看到她发消息来我总会有莫名的压力。更多的是关心我生活过得怎么样，有没有买新的衣服或者自己想要的东西什么的，家里卫生打扫了没有、衣服洗了没有、猫睡觉的垫子洗了没有，各种各种。。。我妈是一个太细心的人，细心到每次她来我这里，只要哪里有一点点改变她都能看得出来，有点阔怕吧，哈哈。<br>
 害怕接到他们的电话或是微信消息，可能是我觉得只要不联系，大家肯定都相安无事，我这想法也挺神奇的。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从什么时候开始熬夜]]></title>
-        <id>https://onesmao.com/post/cong-shi-me-shi-hou-kai-shi-ao-ye</id>
-        <link href="https://onesmao.com/post/cong-shi-me-shi-hou-kai-shi-ao-ye">
-        </link>
-        <updated>2019-12-20T01:04:57.000Z</updated>
-        <content type="html"><![CDATA[<p>从2018年开始，渐渐的喜欢熬夜，凌晨一点两点三点四点，第二天一样起来上班，因为那个时候早上上班时间也比较随意，规定8：30上班，领导改成9点，实际都是十点十一点才去，上班的时候困成狗，心想今天回去一定要早点睡，但是一下班，又会执着的熬夜，就好像每天有说不完的话，一定要在当天说完，第二天又有好多好多话要说，而对方也是会迁就，一起熬夜，即使有时候想早睡，也被我拖到很晚。后来可能没有那么多话了，我还是要晚睡，因为这个不好的习惯我被说了很多次，但就是不愿意改。直到现在，快两年了，好难改过来。<br>
-只是记录吧，其实我也分不清是全情投入的喜欢还是在消耗自己无处安放的情绪了。<br>
-希望以后不要再这么多话了。（一大早就被这评论带的这么丧，害！）<br>
-<img src="https://onesmao.com/post-images/1576805246055.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
