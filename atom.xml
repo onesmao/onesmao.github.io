@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onesmao.com</id>
     <title>一只小猫</title>
-    <updated>2021-06-28T02:11:02.203Z</updated>
+    <updated>2021-07-12T04:24:31.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onesmao.com"/>
     <link rel="self" href="https://onesmao.com/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://onesmao.com/images/avatar.png</logo>
     <icon>https://onesmao.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 一只小猫</rights>
+    <entry>
+        <title type="html"><![CDATA[就像月光洒向海面]]></title>
+        <id>https://onesmao.com/post/jiu-xiang-yue-guang-sa-xiang-hai-mian/</id>
+        <link href="https://onesmao.com/post/jiu-xiang-yue-guang-sa-xiang-hai-mian/">
+        </link>
+        <updated>2021-07-12T03:51:33.000Z</updated>
+        <content type="html"><![CDATA[<p>片段一<br>
+“你说我喜不喜欢你，我肯定是喜欢的，你说我爱不爱你，我肯定也不爱。我现在就是尽量控制不爱上你。”<br>
+“那万一爱上了呢？”<br>
+“不会的。”<br>
+“你不是说尽量控制不爱上我吗？”<br>
+“哦，那不对，我一定不能爱上你。”<br>
+“那万一呢？”<br>
+“没有万一，我相信理性还是可以战胜感性的。”<br>
+“……”</p>
+<p>片段二<br>
+“我是觉得很难再遇到和你一样的人了。”<br>
+“哈哈哈你还想遇到几个我啊？”<br>
+“所以会觉得有些绝望。”<br>
+“我希望带给你的是开心，而不是你对生活和对异性的绝望。”<br>
+“不是，遇到你之前我也很绝望，但是我不知道为什么绝望，遇到你之后，我知道我为什么绝望了。”<br>
+“我有这么绝吗哈哈哈”<br>
+“……（有的）”<br>
+“其实那天之后我也很失落。”<br>
+“……”</p>
+<p>“我将注视着你，去往我认为你更能幸福的方向。”——《流金岁月》<br>
+这也是我最近会追这个局的原因。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碎碎念]]></title>
         <id>https://onesmao.com/post/sui-sui-nian/</id>
@@ -216,17 +245,6 @@
 然后又突然发现不必再这么过了</p>
 <p>其实现在想想，也没有觉得这样节约的生活会让自己不开心吧，因为有些时候真的能减少一些不必要的开销，以前花钱确实不会怎么去考虑太多。希望以后在吃饭、出行和看电影这些方面就不用这么节约啦，在买东西的时候还是要买自己确实需要的东西才好。<br>
 还有就是要存一点钱，不能每个月月光了，这样的话再换工作也不用生活的这么艰难了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倒数]]></title>
-        <id>https://onesmao.com/post/dao-shu/</id>
-        <link href="https://onesmao.com/post/dao-shu/">
-        </link>
-        <updated>2019-12-21T02:12:55.000Z</updated>
-        <content type="html"><![CDATA[<p>从25岁开始，感觉生活开始倒数了，30岁之前要完成的事情，会随着时间的流逝越来越躲不掉了，所以25岁的时候我总在想26岁的时候我该做些什么，很多时候我都以为我已经26了，可能到26的时候也会如此吧，越来越觉得时间的宝贵，挥霍不起了。<br>
-一直以来，我仿佛始终都觉得对下个阶段的生活我还没有准备好，所以我只敢谈恋爱，不敢结婚，我害怕在一起时间长了就要被安排谈婚论嫁的那种感觉，如果要到这一步我又会开始重新审视这段关系，审视的结果当然就是我不愿意，我无法这么进入下个阶段，那到底什么样才算是准备好了？我不知道。如果一直都觉得没准备好怎么办？不可能30岁都不结婚吧？<br>
-以我现在的想法，感情上的事明年就不会再考虑了，明年就专注做自己想做的事情的吧，重新整理下现在的生活，我想看看按照这个方向努力一年能达到什么样的效果，因为我好像从未这么好好的停下来过。如果在这上面花费一年的时间，那就意味着在这30岁的倒数中我真的离得越来越近了，我不想再焦虑下去了，就在2021年结婚吧！</p>
 ]]></content>
     </entry>
 </feed>
